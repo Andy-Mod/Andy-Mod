@@ -9,7 +9,7 @@
 - 🖋️ Passionate about **Robotics**, **Computer Science**, and **Artificial Intelligence**  
 - 🎮 Gamer and Tech Enthusiast  
 - 🏀 Sport Fan: Basketball and Volleyball  
-- 🐧 Proud ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  **Enjoyer**
+- 🐧 Random ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  **Enjoyer**
 
 ---
 
