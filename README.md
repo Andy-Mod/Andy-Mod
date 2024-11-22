@@ -1,5 +1,5 @@
 # Hi, I'm **Mouléro DEGBEGNI**! 👋  
-🔭 **Robotics Engineering Student | Developer**
+🔭 **Robotics Engineering Student | Developer | C/C++, Java, Python, ROS, Machine Learning**
 
 ---
 
