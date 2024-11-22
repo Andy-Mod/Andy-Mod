@@ -14,9 +14,8 @@
 
 ---
 
-## 💻 Skills & Expertise  
+## 💻 Most used Programming Languages
 
-- **Programming Languages**:  
   ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -52,5 +51,4 @@
 ---
 ## 📫 Contact Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/moul%C3%A9ro-degbegni-093a64286)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moulero.degbegni@univ-tlse3.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/moul%C3%A9ro-degbegni-093a64286)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moulero.degbegni@univ-tlse3.fr)
