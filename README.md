@@ -24,7 +24,8 @@
 
 - **Broad Topics**:  
   🤖 Mobile and Autonomous Robotics  
-  🚗 Automotive Technologies  
+  🚗 Automotive Technologies
+  🤖 Embedded Systems
   🧠 Artificial Intelligence  
 
 - **Sports**:  
