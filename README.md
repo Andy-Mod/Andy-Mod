@@ -9,12 +9,11 @@
 - 🖋️ Passionate about **Robotics**, **Computer Science**, and **Artificial Intelligence**  
 - 🎮 Gamer and Tech Enthusiast  
 - 🏀 Sport Fan: Basketball and Volleyball  
-- 🐧 Proud **Linux Enjoyer**  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+- 🐧 Proud ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  **Enjoyer**
 
 ---
 
-## 💻 Most used Programming Languages
+- **💻 Most used Programming Languages**
 
   ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
