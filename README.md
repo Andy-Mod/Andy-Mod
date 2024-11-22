@@ -1,16 +1,15 @@
-## Hi there 👋
+# Mouléro DEGBEGNI
+**Engeniering student in Robotics**
 
-<!--
-**Andy-Mod/Andy-Mod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Engeniering student in Robotics and Interactive systems
+- 🌍 Based in Toulouse, France
+- 📫 [Email](mailto:moulero.degbegni@univ-tlse3.fr)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy-Mod&show_icons=true&theme=radical)
+
+### Pinned Repositories
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1)](https://github.com/yourusername/repo1)
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2)](https://github.com/yourusername/repo2)
