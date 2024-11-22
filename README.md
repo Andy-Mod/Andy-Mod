@@ -47,13 +47,11 @@
 ![Mouléro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy-Mod&show_icons=true&theme=radical)  
 
 ## 📌 Pinned Repositories
-
-[![Simulation environement for the Perrobot](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame&theme=radical)](https://github.com/Andy-Mod/Simulation-environement-for-the-Perrobot)
-[![Aries](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame2&theme=radical)](https://github.com/Andy-Mod/Aries)
+[![Simulation Environment for the Perrobot](https://github-readme-stats.vercel.app/api/pin/?username=Andy-Mod&repo=Simulation-environement-for-the-Perrobot&theme=radical)](https://github.com/Andy-Mod/Simulation-environement-for-the-Perrobot)  
+[![Aries](https://github-readme-stats.vercel.app/api/pin/?username=Andy-Mod&repo=Aries&theme=radical)](https://github.com/Andy-Mod/Aries)
 
 ---
-
 ## 📫 Contact Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/moul%C3%A9ro-degbegni-093a64286)
-📫 [Email](mailto:moulero.degbegni@univ-tlse3.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/moul%C3%A9ro-degbegni-093a64286)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moulero.degbegni@univ-tlse3.fr)
