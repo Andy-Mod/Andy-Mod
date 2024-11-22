@@ -1,12 +1,12 @@
 # Hi, I'm **Mouléro DEGBEGNI**! 👋  
-🔭 **Robotics Engineering Student | Dev | C/C++, Java, Python, ROS, Machine Learning**
+🔭 **Robotics Engineering Student | Dev | C/C++, Java, Python, ROS, Machine Learning, Embedded Systems**
 
 ---
 
 ## 🌟 About Me  
 - 🎓 **Student** in Robotics and Interactive Systems at **UPSSITECH**  
 - 📍 Based in **Toulouse, France**  
-- 🖋️ Passionate about **Robotics**, **Computer Science**, and **Artificial Intelligence**  
+- 🖋️ Passionate about **Robotics**, **Computer Science**, and **Embedded Systems** and **Artificial Intelligence**  
 - 🎮 Gamer and Tech Enthusiast  
 - 🏀 Sport Fan: Basketball and Volleyball  
 - 🐧 Random ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  **Enjoyer**
