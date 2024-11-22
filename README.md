@@ -1,15 +1,32 @@
-# Mouléro DEGBEGNI
-**Engeniering student in Robotics**
+# Hi, I'm [Mouléro DEGBEGNI]! 👋
+🔭 Robotics Engeniering Student | Dev   
 
-- 💻 Engeniering student in Robotics and Interactive systems
-- 🌍 Based in Toulouse, France
-- 📫 [Email](mailto:moulero.degbegni@univ-tlse3.fr)
+## 🌟 About Me
+- 🎓 Student in Robotics and Interactive Systems at UPSSITECH
+- Based in Toulouse, France
+- 🖋️ Passionate about Robotics, Computer Science and AI 
+- 🎮 Gamer and Tech Enthusiast
+- Sport fan (Basket Ball and Volley Ball)
 
 ---
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy-Mod&show_icons=true&theme=radical)
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Pinned Repositories
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1)](https://github.com/yourusername/repo1)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2)](https://github.com/yourusername/repo2)
+---
+
+### 🎨 Hobbies
+- 🌍 Exploring new cultures
+- 🎨 Digital art and design
+- 🕹️ Competitive gaming  
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
