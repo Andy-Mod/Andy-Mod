@@ -47,8 +47,7 @@
 ![Mouléro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy-Mod&show_icons=true&theme=radical)  
 
 ## 📌 Pinned Repositories
-[![Simulation Environment for the Perrobot](https://github-readme-stats.vercel.app/api/pin/?username=Andy-Mod&repo=Simulation-environement-for-the-Perrobot&theme=radical)](https://github.com/Andy-Mod/Simulation-environement-for-the-Perrobot)  
-[![Aries](https://github-readme-stats.vercel.app/api/pin/?username=Andy-Mod&repo=Aries&theme=radical)](https://github.com/Andy-Mod/Aries)
+[![Simulation Environment for the Perrobot](https://github-readme-stats.vercel.app/api/pin/?username=Andy-Mod&repo=Simulation-environement-for-the-Perrobot&theme=radical)](https://github.com/Andy-Mod/Simulation-environement-for-the-Perrobot)  [![Aries](https://github-readme-stats.vercel.app/api/pin/?username=Andy-Mod&repo=Aries&theme=radical)](https://github.com/Andy-Mod/Aries)
 
 ---
 ## 📫 Contact Me  
