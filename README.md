@@ -40,9 +40,6 @@
   🍳 Cooking  
 
 ---
-
-## 📊 GitHub Stats  
-
 ![Mouléro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy-Mod&show_icons=true&theme=radical)  
 
 ## 📌 Pinned Repositories
