@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 **Student** in Robotics and Interactive Systems at **UPSSITECH**  
+- 🎓 Student in **Robotics and Interactive Systems at UPSSITECH**  
 - 📍 Based in **Toulouse, France**  
 - 🖋️ Passionate about **Robotics**, **Computer Science**, **Embedded Systems** and **Artificial Intelligence**  
 - 🎮 Gamer and Tech Enthusiast  
